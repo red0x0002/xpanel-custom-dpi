@@ -22,3 +22,7 @@
 7. Voila:
 
 ![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/126c692c-76a1-4c0f-bc48-df880b2de3d1)
+
+## Why this works
+
+Finalmouse utilises packets sent between the website and mouse to communicate and update information. With both the dpi and polling rate, it converts the string value to a numerical value which it then wraps into a packet and sends it to the mouse so if we alter the initial string, it will alter what information the packet sends.
