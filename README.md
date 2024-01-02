@@ -16,3 +16,9 @@
 ![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/b0d75304-2a01-4317-a996-b421a192dcce)
 
 6. You can now simply overwrite any of the values within range of 25599 and then refresh the page and click on the new dpi value
+
+![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/f65cc914-cfa4-4aa8-8367-6dc0df4d568e)
+
+7. Voila:
+
+![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/126c692c-76a1-4c0f-bc48-df880b2de3d1)
