@@ -1,11 +1,11 @@
-# xpanel-custom-dpi ([https://xpanel.finalmouse.com/](url))
+# xpanel-custom-dpi https://xpanel.finalmouse.com/
 
 ## Why this works
 
 Finalmouse utilises packets sent between the website and mouse to communicate and update information. With both the dpi and polling rate, it converts the string value to a numerical value which it then wraps into a packet and sends it to the mouse so if we alter the initial string, it will alter what information the packet sends.
 
 ## Custom DPI
-1. Proceed to [https://xpanel.finalmouse.com/dpi]([url](https://xpanel.finalmouse.com/dpi))
+1. Proceed to https://xpanel.finalmouse.com/dpi
 2. Press "Ctrl + Shift + I) and go to the sources tab:
 
 ![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/eb88eaca-2072-4640-ba03-a3ab6b93fee5)
