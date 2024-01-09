@@ -23,8 +23,8 @@ video showcase: https://streamable.com/qiqa52
 
 6. You can now simply overwrite any of the values within range the of 25600 (it must be below 25600) and then hit "Ctrl + S" page
 
-7. if you see an error or warning sign ⚠️ next to the file name, right click it and click "Override content" then store it anywhere you like (you can delete it after successfully changing your dpi)
-(it is simply saving the new javascript file to disk so the website can use it)
+7. if you see an error or warning sign ⚠️ next to the file name, right click it and click "Override content" then store it anywhere you like
+(it is simply saving the new javascript file to disk so the website can use it - you can delete it after successfully changing your dpi)
 
 8. Now refresh the page and click on whatever custom dpi value you set.
 
