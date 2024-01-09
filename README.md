@@ -23,12 +23,12 @@ video showcase: https://streamable.com/qiqa52
 
 6. You can now simply overwrite any of the values within range the of 25600 (it must be below 25600) and then hit "Ctrl + S" page
 
+![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/f65cc914-cfa4-4aa8-8367-6dc0df4d568e)
+
 7. if you see an error or warning sign ⚠️ next to the file name, right click it and click "Override content" then store it anywhere you like
 (it is simply saving the new javascript file to disk so the website can use it - you can delete it after successfully changing your dpi)
 
 8. Now refresh the page and click on whatever custom dpi value you set.
-
-![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/f65cc914-cfa4-4aa8-8367-6dc0df4d568e)
 
 9. Voila:
 
