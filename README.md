@@ -21,7 +21,7 @@ video showcase: https://streamable.com/qiqa52
 
 ![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/b0d75304-2a01-4317-a996-b421a192dcce)
 
-6. You can now simply overwrite any of the values within range the of 25600 (it must be below 25600) and then hit "Ctrl + S" page
+6. You can now simply overwrite any of the values within range the of 25600 (it must be below 25600) and then hit "Ctrl + S"
 
 ![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/f65cc914-cfa4-4aa8-8367-6dc0df4d568e)
 
