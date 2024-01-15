@@ -23,7 +23,7 @@ video showcase: https://streamable.com/qiqa52
 
 6. You can now simply overwrite any of the values within range the of 400-25600 (it must be below 25600) and then hit "Ctrl + S"
 
-   (Note: The dpi values are rounded to the nearest hundred.)
+   (Note: The dpi values are rounded to the nearest hundred, this is a firmware limitation.)
 
 ![image](https://github.com/red0x0002/xpanel-custom-dpi/assets/93785137/f65cc914-cfa4-4aa8-8367-6dc0df4d568e)
 
